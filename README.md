@@ -1,7 +1,6 @@
 # GAIApp
 
-# Team Name
-Team Chaos
+# Team Chaos
 
 # Team Members
 Mereyli B., Emir K., Tejaswini S.
